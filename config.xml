@@ -9,8 +9,8 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-	<access origin="https://192.168.1.100/*" />
-	<access origin="http://192.168.1.100/*" />
+	<access origin="https://89.80.0.111/*" />
+	<access origin="http://89.80.0.111/*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
